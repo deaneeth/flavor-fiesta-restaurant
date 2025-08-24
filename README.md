@@ -1,9 +1,9 @@
 # 🍽️ Flavor Fiesta - Culinary Website 🍕
 
-![GitHub repo size](https://img.shields.io/github/repo-size/deaneeth/flavor-fiesta)
-![GitHub stars](https://img.shields.io/github/stars/deaneeth/flavor-fiesta?style=social)
-![GitHub forks](https://img.shields.io/github/forks/deaneeth/flavor-fiesta?style=social)
-![Bitbucket open issues](https://img.shields.io/github/issues/deaneeth/flavor-fiesta)
+![GitHub repo size](https://img.shields.io/github/repo-size/deaneeth/flavor-fiesta-resturant)
+![GitHub stars](https://img.shields.io/github/stars/deaneeth/flavor-fiesta-resturant?style=social)
+![GitHub forks](https://img.shields.io/github/forks/deaneeth/flavor-fiesta-resturant?style=social)
+![Bitbucket open issues](https://img.shields.io/github/issues/deaneeth/flavor-fiesta-resturant)
 
 ## 📖 Overview
 
@@ -81,7 +81,7 @@ Flavor Fiesta is fully responsive and optimized for various devices including:
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/deaeneth/flavor-fiesta.git
+   git clone https://github.com/deaeneth/flavor-fiesta-resturant.git
    ```
 
 1. Navigate to the project directory
@@ -119,7 +119,7 @@ flavor-fiesta/
 
 ## 🌐 Live Demo
 
-Visit the live website: [Flavor Fiesta](https://deaneeth.github.io/flavor-fiesta)
+Visit the live website: [Flavor Fiesta](https://deaneeth.github.io/flavor-fiesta-resturant)
 
 ## 📊 Future Enhancements
 
