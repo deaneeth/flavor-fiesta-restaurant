@@ -87,7 +87,7 @@ Flavor Fiesta is fully responsive and optimized for various devices including:
 1. Navigate to the project directory
 
    ```bash
-   cd flavor-fiesta
+   cd flavor-fiesta-restaurant
    ```
 
 1. Open `index.html` in your preferred browser
@@ -131,7 +131,7 @@ Visit the live website: [Flavor Fiesta](https://deaneeth.github.io/flavor-fiesta
 
 ## 👨‍💻 Contributors
 
-- Your Name - [GitHub Profile](https://github.com/deaneeth)
+- Deaneeth - [GitHub Profile](https://github.com/deaneeth)
 
 ## 📄 License
 
