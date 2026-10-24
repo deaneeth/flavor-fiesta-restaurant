@@ -9,7 +9,7 @@
 
 **Flavor Fiesta** is a responsive, user-friendly food website designed to showcase a variety of culinary delights and provide an exceptional online food ordering experience. The website features an elegant design with interactive elements, making it easy for users to browse through various food options, place orders, and stay updated on upcoming food events.
 
-![Website Preview](assests/image.png)
+![Website Preview](assets/image.png)
 
 ## 🌟 Features
 
@@ -81,7 +81,7 @@ Flavor Fiesta is fully responsive and optimized for various devices including:
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/deaeneth/flavor-fiesta-restaurant.git
+   git clone https://github.com/deaneeth/flavor-fiesta-restaurant.git
    ```
 
 1. Navigate to the project directory
